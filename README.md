@@ -9,7 +9,7 @@ _**Tutorial URL:** https://goo.gl/kU69qS_<br />
 
 **Demo User IDs**
 User Type  | Email | Password
-------------- | -------------
+------------- | ------------- | -------------
 Admin  | admin@admin.com | 12345678
 School  | ankur@ankur.com | 12345678
 Deo  | deo@deo.com | 12345678
