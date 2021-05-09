@@ -1,0 +1,22 @@
+<?php
+				include("../../../connection.php");
+				$sql = "select * from student_details where aadher_number="str;
+				$result = mysqli_query($conn,$sql);
+				if(mysqli_num_rows($result)>0)
+				{
+					swal(
+					'Duplicate Entry',
+					'Macthed Aadhaar Number' + '  ' + str,
+					'error')
+				}
+				else
+				{
+				swal(
+					'Gotcha!',
+					'Aadhaar Number' + ' ' +str,
+					'success'
+					).then(function() {
+					window.location.href = "addstudenta.php?anum="+str
+					})
+				}	
+			?>
