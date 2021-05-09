@@ -5,20 +5,15 @@ in State Hackthon Competition in India <br /><br />
 
 *This portal is developed for dropout analysis ratio of students, used by schools, government, media, etc*<br />
 
-_**Tutorial URL:** https://goo.gl/kU69qS_
+_**Tutorial URL:** https://goo.gl/kU69qS_<br />
 
 **Demo User IDs**
-*Admin:
-    *Email: admin@admin.com
-    *Password: 12345678
-
-*School:
-    *Email: ankur@ankur.com
-    *Password: 12345678
-
-*Deo:
-    *Email: deo@deo.com
-    *Password: 12345678
+User Type  | Email | Password
+------------- | -------------
+Admin  | admin@admin.com | 12345678
+School  | ankur@ankur.com | 12345678
+Deo  | deo@deo.com | 12345678
+<br />
 
 **Screenshots**
 
